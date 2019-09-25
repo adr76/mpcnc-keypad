@@ -19,8 +19,8 @@
 *.stl
 Резервная_копия_*.cdr
 /hex
-/docs
-/res
-/sw
-/test
+#/docs
+#/res
+#/sw
+#/test
 
